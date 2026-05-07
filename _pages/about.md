@@ -11,7 +11,8 @@ redirect_from:
 
 **佐々木 景友**
 
-I am a second-year master's student in the Department of Statistics, Graduate School of Economics, The University of Tokyo, advised by [Yasuhiro Omori](https://sites.google.com/view/omori-stat/english?authuser=0).
+I am a second-year master's student in the Department of Statistics, Graduate School of Economics, The University of Tokyo.
+My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-stat/english?authuser=0).
 
 
 ## Research Interests
