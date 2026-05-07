@@ -29,4 +29,4 @@ My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-sta
 
 ## Contact
 
-- Email: sasaki-lastname0101@g.ecc.u-tokyo.ac.jp
+- Email: [familyname]-keisuke0101@g.ecc.u-tokyo.ac.jp
