@@ -24,4 +24,4 @@ My research interests are in Bayesian statistics.
 
 ## Contact
 
-- Email: sasaki-keisuke0101@g.ecc.u-tokyo.ac.jp
+- Email: familyname-lastname0101@g.ecc.u-tokyo.ac.jp
