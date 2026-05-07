@@ -1,5 +1,15 @@
 var addressPoints = [
   [
+    "Time-varying expected shortfall with realized stochastic volatilities<br />Statistics Seminar; The University of Tokyo, Tokyo, Japan",
+    35.7472291,
+    139.802157
+  ],
+  [
+    "Tree-Embedded Bayesian Factor Models for Multidimensional Categorical Distributions<br />EcoSta 2026; Ryukoku University, Kyoto, Japan",
+    34.9636679,
+    135.766411
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
