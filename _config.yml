@@ -21,15 +21,14 @@ repository               : "ksasaki-stats/ksasaki-stats.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Keisuke Sasaki"
+  avatar           : 
+  bio              : "Master's student in Statistics"
+  location         : "Tokyo, Japan"
+  employer         : "The University of Tokyo"
+  email            : "sasaki-keisuke0101@g.ecc.u-tokyo.ac.jp"
+  uri              : "https://ksasaki-stats.github.io"
+  github           : "ksasaki-stats"
 
   # Academic websites
   academia         : # URL
