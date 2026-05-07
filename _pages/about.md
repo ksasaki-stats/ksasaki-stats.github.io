@@ -25,4 +25,3 @@ My research interests are in Bayesian statistics.
 ## Contact
 
 - Email: sasaki-keisuke0101@g.ecc.u-tokyo.ac.jp
-- GitHub: [ksasaki-stats](https://github.com/ksasaki-stats)
