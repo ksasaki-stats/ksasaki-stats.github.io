@@ -9,8 +9,6 @@ redirect_from:
 
 I am a second-year master's student in the Department of Statistics, Graduate School of Economics, The University of Tokyo.
 
-I received my B.A. in Economics from the Faculty of Economics, The University of Tokyo in 2025.
-
 ## Research Interests
 
 - Bayesian Statistics
@@ -18,7 +16,7 @@ I received my B.A. in Economics from the Faculty of Economics, The University of
 ## Education
 
 - **M.A. in Economics**, Department of Statistics, Graduate School of Economics, The University of Tokyo, 2025–present.
-- **B.A. in Economics**, Faculty of Economics, The University of Tokyo, 2025.
+- **B.A. in Economics**, The University of Tokyo, 2025.
 
 ## Contact
 
