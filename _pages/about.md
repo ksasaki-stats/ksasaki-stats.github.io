@@ -9,6 +9,8 @@ redirect_from:
 
 I am a second-year master's student in the Department of Statistics, Graduate School of Economics, The University of Tokyo.
 
+My research interests are in Bayesian statistics.
+
 ## Research Interests
 
 - Bayesian Statistics
