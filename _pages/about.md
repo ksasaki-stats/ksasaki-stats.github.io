@@ -1,11 +1,13 @@
 ---
 permalink: /
 title: "About"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Keisuke Sasaki
 
 I am a second-year master's student in the Department of Statistics, Graduate School of Economics, The University of Tokyo.
 
@@ -22,4 +24,5 @@ My research interests are in Bayesian statistics.
 
 ## Contact
 
+- Email: sasaki-keisuke0101@g.ecc.u-tokyo.ac.jp
 - GitHub: [ksasaki-stats](https://github.com/ksasaki-stats)
