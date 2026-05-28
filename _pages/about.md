@@ -30,6 +30,7 @@ My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-sta
 ## Scholarships and Awards
 
 - World-leading Innovative Graduate Study of Advanced Economics, The University of Tokyo.
+
   先端経済国際卓越大学院プログラム, 東京大学.
 
 ## Contact
