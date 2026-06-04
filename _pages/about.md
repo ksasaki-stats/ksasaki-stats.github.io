@@ -10,8 +10,8 @@ redirect_from:
 <style>
 .profile-photo-left {
   position: absolute;
-  left: 160px;
-  top: 210px;
+  left: 95px;
+  top: 175px;
   width: 230px;
   height: 230px;
   object-fit: cover;
