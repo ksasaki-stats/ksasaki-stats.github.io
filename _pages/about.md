@@ -8,21 +8,33 @@ redirect_from:
 ---
 
 <style>
+.about-with-photo {
+  display: grid;
+  grid-template-columns: 230px minmax(0, 1fr);
+  column-gap: 2.5rem;
+  align-items: start;
+}
+
 .profile-photo-left {
-  position: absolute;
-  left: 25px;
-  top: 150px;
   width: 210px;
   height: 210px;
   object-fit: cover;
   border-radius: 50%;
   border: 3px solid #e5e5e5;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  margin-top: 3.1rem;
+}
+
+.about-text h1:first-child {
+  margin-top: 0;
 }
 
 @media screen and (max-width: 900px) {
+  .about-with-photo {
+    display: block;
+  }
+
   .profile-photo-left {
-    position: static;
     display: block;
     width: 170px;
     height: 170px;
@@ -31,7 +43,11 @@ redirect_from:
 }
 </style>
 
-<img src="/images/profile.jpg" alt="Keisuke Sasaki" class="profile-photo-left">
+<div class="about-with-photo">
+  <div>
+    <img src="/images/profile.jpg" alt="Keisuke Sasaki" class="profile-photo-left">
+  </div>
+  <div class="about-text">
 
 # Keisuke Sasaki
 
@@ -62,3 +78,6 @@ My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-sta
 ## Contact
 
 - Email: [familyname]-keisuke0101@g.ecc.u-tokyo.ac.jp
+
+  </div>
+</div>
