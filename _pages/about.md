@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 <style>
+.page__title {
+  display: none;
+}
+
 .about-with-photo {
   display: grid;
   grid-template-columns: 230px minmax(0, 1fr);
