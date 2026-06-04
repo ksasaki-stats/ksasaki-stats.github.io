@@ -16,6 +16,8 @@ redirect_from:
   height: 230px;
   object-fit: cover;
   border-radius: 50%;
+  border: 3px solid #e5e5e5;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 @media screen and (max-width: 900px) {
