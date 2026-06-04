@@ -43,11 +43,11 @@ redirect_from:
 }
 </style>
 
-<div class="about-with-photo">
-  <div>
-    <img src="/images/profile.jpg" alt="Keisuke Sasaki" class="profile-photo-left">
-  </div>
-  <div class="about-text">
+<div class="about-with-photo" markdown="1">
+<div markdown="0">
+<img src="/images/profile.jpg" alt="Keisuke Sasaki" class="profile-photo-left">
+</div>
+<div class="about-text" markdown="1">
 
 # Keisuke Sasaki
 
@@ -79,5 +79,5 @@ My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-sta
 
 - Email: [familyname]-keisuke0101@g.ecc.u-tokyo.ac.jp
 
-  </div>
+</div>
 </div>
