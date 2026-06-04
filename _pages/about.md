@@ -14,9 +14,10 @@ redirect_from:
 
 .about-with-photo {
   display: grid;
-  grid-template-columns: 230px minmax(0, 1fr);
-  column-gap: 2.5rem;
+  grid-template-columns: 230px minmax(0, 520px);
+  column-gap: 2.2rem;
   align-items: start;
+  transform: translateX(-120px);
 }
 
 .profile-photo-left {
@@ -36,6 +37,7 @@ redirect_from:
 @media screen and (max-width: 900px) {
   .about-with-photo {
     display: block;
+    transform: none;
   }
 
   .profile-photo-left {
