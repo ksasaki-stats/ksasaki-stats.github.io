@@ -41,3 +41,26 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+@media screen and (max-width: 600px) {
+  .masthead__inner-wrap {
+    padding: 0.35em 0.45em;
+  }
+
+  .greedy-nav {
+    min-width: 0;
+  }
+
+  .greedy-nav a {
+    margin: 0 0.4rem;
+    font-size: 0.85rem;
+  }
+
+  .masthead__menu-item--lg {
+    padding-right: 0.4em;
+  }
+
+  .greedy-nav .visible-links #theme-toggle a {
+    width: 18px;
+  }
+}
