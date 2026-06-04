@@ -20,7 +20,7 @@
           {% endfor %}
           <li class="masthead__menu-item mobile-nav-menu" style="display: none;">
             <details>
-              <summary>Menu</summary>
+              <summary aria-label="Open menu"><span class="hamburger-icon" aria-hidden="true"></span></summary>
               <ul class="mobile-nav-dropdown">
                 {% for link in site.data.navigation.main %}
                   {% if link.url contains 'http' %}
