@@ -43,7 +43,7 @@
 ;
 
 .mobile-nav-menu {
-  display: none;
+  display: none !important;
 }
 
 @media screen and (max-width: 600px) {
@@ -52,7 +52,7 @@
   }
 
   .mobile-nav-menu {
-    display: table-cell;
+    display: table-cell !important;
     position: relative;
     vertical-align: middle;
   }
