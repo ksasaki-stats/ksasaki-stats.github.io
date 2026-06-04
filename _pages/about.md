@@ -7,9 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-# Keisuke Sasaki
+<style>
+.profile-photo-left {
+  position: absolute;
+  left: 160px;
+  top: 210px;
+  width: 230px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 50%;
+}
 
-<img src="/images/profile.jpg" alt="Keisuke Sasaki" style="width: 170px; height: 170px; object-fit: cover; border-radius: 50%; display: block; margin: 0.8rem 0 1rem 0;">
+@media screen and (max-width: 900px) {
+  .profile-photo-left {
+    position: static;
+    display: block;
+    width: 170px;
+    height: 170px;
+    margin: 0.8rem 0 1rem 0;
+  }
+}
+</style>
+
+<img src="/images/profile.jpg" alt="Keisuke Sasaki" class="profile-photo-left">
+
+# Keisuke Sasaki
 
 **佐々木 景友**
 
