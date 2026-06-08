@@ -67,7 +67,7 @@ My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-sta
 ## Research Interests
 
 - Bayesian Statistics
-- Financial Econometrics
+- Econometrics
 - Time Series Analysis
 
 ## Education
@@ -75,7 +75,7 @@ My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-sta
 - **M.A. in Economics**, Department of Statistics, Graduate School of Economics, The University of Tokyo, 2025–present.
 - **B.A. in Economics**, The University of Tokyo, 2025.
 
-## Scholarships and Awards
+## Fellowships and Awards
 
 - World-leading Innovative Graduate Study of Advanced Economics, The University of Tokyo.
 
