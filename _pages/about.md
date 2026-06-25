@@ -66,10 +66,9 @@ My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-sta
 
 ## Research Interests
 
+- Bayesian Statistics
 - Financial Statistics
 - Econometrics
-- Time Series Analysis
-- Bayesian Statistics
 
 ## Education
 
