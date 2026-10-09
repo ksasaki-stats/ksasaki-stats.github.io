@@ -77,7 +77,11 @@ My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-sta
 
 ## Fellowships and Awards
 
-- World-leading Innovative Graduate Study of Advanced Economics, The University of Tokyo, 2026-present.
+- JSPS Research Fellowship for Young Scientists (DC1), Japan Society for the Promotion of Science, April 2027–March 2030.
+
+  日本学術振興会特別研究員（DC1）, 日本学術振興会.
+
+- World-leading Innovative Graduate Study of Advanced Economics, The University of Tokyo, 2026–March 2027.
 
   先端経済国際卓越大学院プログラム, 東京大学.
 
