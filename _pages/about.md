@@ -81,7 +81,7 @@ My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-sta
 
   日本学術振興会特別研究員（DC1）, 日本学術振興会.
 
-- World-leading Innovative Graduate Study of Advanced Economics, The University of Tokyo, 2026–March 2027.
+- World-leading Innovative Graduate Study of Advanced Economics, The University of Tokyo, July 2026–March 2027.
 
   先端経済国際卓越大学院プログラム, 東京大学.
 
