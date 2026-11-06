@@ -77,6 +77,8 @@ My advisor is Professor [Yasuhiro Omori](https://sites.google.com/view/omori-sta
 
 ## Fellowships and Awards
 
+- Scholarship for Study Abroad, The Nakajima Foundation, 2027–.
+
 - JSPS Research Fellowship for Young Scientists (DC1), Japan Society for the Promotion of Science, April 2027–March 2030.
 
   日本学術振興会特別研究員（DC1）, 日本学術振興会.
